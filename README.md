@@ -58,7 +58,7 @@ An interactive Tableau dashboard that gives HR teams real-time visibility into t
 
 ## 🔗 View Live Dashboard
 
-[👉 Open in Tableau Public](https://public.tableau.com)
+[👉 Open in Tableau Public](https://public.tableau.com/app/profile/andr.s.navarro1175/viz/FarmaciaCarvajal_Report/Vista)
 
 ---
 
