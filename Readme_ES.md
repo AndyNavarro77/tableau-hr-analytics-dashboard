@@ -58,7 +58,7 @@ Un dashboard interactivo en Tableau que brinda visibilidad en tiempo real sobre 
 
 ## 🔗 Ver Dashboard Online
 
-[👉 Abrir en Tableau Public](https://public.tableau.com)
+[👉 Abrir en Tableau Public](https://public.tableau.com/app/profile/andr.s.navarro1175/viz/FarmaciaCarvajal_Report/Vista)
 
 ---
 
